@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023383690860",
+    "project_id": "boma-property-mangers",
+    "storage_bucket": "boma-property-mangers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023383690860:android:4f4318ac60568fabec4249",
+        "android_client_info": {
+          "package_name": "com.example.bomapropertymangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023383690860-nc0a2ffqjndq95tlctvst2neu5thucth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVtU3jiEvPdx0LLsrENaZfekhe6ejLECw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023383690860-nc0a2ffqjndq95tlctvst2neu5thucth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
